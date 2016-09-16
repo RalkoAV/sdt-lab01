@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//учебная программа
 int main()
 {
     int n3,n,n1,sum=0;
